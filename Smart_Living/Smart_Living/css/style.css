@@ -4,7 +4,6 @@
   margin: 0;
   border: 0;
 }
-
 *,
 *:before,
 *:after {
@@ -536,16 +535,16 @@ h6 {
 }
 
 @media(max-width:991.98px) {
-  .how {
-    padding-top: 70px;
-    padding-bottom: 70px;
+.how {
+  padding-top: 70px;
+  padding-bottom: 70px;
   }
 }
 
 @media(max-width:767.98px) {
-  .how {
-    padding-top: 30px;
-    padding-bottom: 30px;
+.how {
+  padding-top: 30px;
+  padding-bottom: 30px;
   }
 }
 
